@@ -4,7 +4,7 @@ Full Stack Developer | MSc in IT Management
 I am a Toronto-based developer focused on building high-performance, enterprise-grade web applications. I specialize in the Angular and .NET ecosystems, with a deep interest in scalable architectures and real-time data integration.
 
 🛠 Technical Stack
-- Frontend: Angular (v17+), TypeScript, RxJS, JavaScript (ES6+), Bootstrap, CSS3/HTML5.
+- Frontend: Angular (v17+), React, TypeScript, RxJS, JavaScript (ES6+), Bootstrap, CSS3/HTML5.
 - Backend: C# (.NET Core), Entity Framework, RESTful APIs, Node.js.
 - Databases: SQL Server (RDBMS), PostgreSQL, MongoDB.
 - Tools & DevOps: Docker, Postman, Azure DevOps, Git, GitHub Actions.
