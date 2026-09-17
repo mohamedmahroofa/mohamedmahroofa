@@ -1,38 +1,41 @@
-👋 Hi, I’m Ahmed Sheedh
+# 👋 Hi, I’m Ahmed Sheedh
+### Frontend Developer | Angular & React Specialist | MSc in Tech Management
 
-Full Stack Developer | MSc in IT Management
-I am a Toronto-based developer focused on building high-performance, enterprise-grade web applications. I specialize in the Angular and .NET ecosystems, with a deep interest in scalable architectures and real-time data integration.
+I build responsive, accessible, and high-performance web applications with modern JavaScript frameworks. With commercial contract experience delivering production UI components and an academic background in Technology & Innovation Management, I focus on clean component architectures, state management, and seamless API integration.
 
-🛠 Technical Stack
-- Frontend: Angular (v17+), React, TypeScript, RxJS, JavaScript (ES6+), Bootstrap, CSS3/HTML5.
-- Backend: C# (.NET Core), Entity Framework, RESTful APIs, Node.js.
-- Databases: SQL Server (RDBMS), PostgreSQL, MongoDB.
-- Tools & DevOps: Docker, Postman, Azure DevOps, Git, GitHub Actions.
+Based in Chennai, India 📍 • Available immediately
 
-🚀 Key Project
-Task Management Web Application
+---
 
-- A robust full-stack application built with Angular and C#.
-- Features seamless API integration, optimized data retrieval speeds, and a responsive UI.
-- Managed a cross-functional team of 8 developers using Agile methodologies.
+### 🛠 Technical Stack
 
-🌱 Currently Specializing In
-- Advanced Reactive Programming with RxJS and Angular Signals.
-- Containerization and microservices using Docker.
-- Large-scale database optimization for high-concurrency systems.
+* **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
+* **Frontend Frameworks:** Angular (v14–v17+), React.js, RxJS, NgRx, Redux Toolkit
+* **Styling & UI:** Tailwind CSS, Bootstrap, Material UI, AG-Grid / Responsive Design
+* **Integration & Tools:** RESTful APIs, Git, GitHub, Postman, Jest / Karma
 
-💞️ Looking to Collaborate On
-- Open-source Angular or .NET projects.
-- Fintech and Digital Banking solutions.
-- Frontend innovation and UI/UX modernization.
+---
 
-📫 Connect with Me
-LinkedIn: linkedin.com/in/ahmed-sheedh
+### 🚀 Key Projects
 
-⚡ Fun Fact
-- There is no such thing as talent when it comes to coding—it’s 100% pure hard work and disciplined problem-solving.
+* **Task Management Web Application**
+  * Built a scalable dashboard interface featuring real-time state synchronization, dynamic data grids, and component reusability.
+  * Integrated complex RESTful endpoints with reactive error-handling and custom filtering pipelines.
+  * Led a multi-developer Agile sprint, coordinating Git workflows, component modularity, and client-side performance reviews.
 
-<!---
-mohamedmahroofa/mohamedmahroofa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Production Frontend Components (Elumina eLearning)**
+  * Developed modular, WCAG-compliant UI components across enterprise e-learning modules using Angular and TypeScript.
+  * Reduced client-side rendering bottlenecks and modernized existing stylesheets to responsive flexbox/grid layouts.
+
+---
+
+### 🌱 Currently Exploring
+* React Server Components (RSC) & Next.js architecture
+* Angular Signals & Zoneless change detection
+* Micro-frontends & modern performance optimization (Core Web Vitals)
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/ahmed-sheedh](https://linkedin.com/in/ahmed-sheedh)
+* **Email:** ahm.sheedh@gmail.com
